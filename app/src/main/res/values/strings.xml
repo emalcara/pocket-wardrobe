@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pocket Wardrobe</string>
+    <string name="pocket">Pocket</string>
+    <string name="wardrobe">Wardrobe</string>
+</resources>
